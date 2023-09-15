@@ -1,0 +1,5 @@
+com\selfLearning\springBootCrud\controller\SubjectController.class
+com\selfLearning\springBootCrud\service\SubjectService.class
+com\selfLearning\springBootCrud\repository\SubjectRepository.class
+com\selfLearning\springBootCrud\SpringBootCrudApplication.class
+com\selfLearning\springBootCrud\entity\Subject.class
